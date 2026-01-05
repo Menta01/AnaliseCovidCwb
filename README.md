@@ -8,8 +8,8 @@ Este projeto tem como objetivo realizar uma **análise dos casos de Covid-19 no 
 
 > ⚠️ **Importante:**  
 > Para a execução correta da análise, é necessário baixar os seguintes arquivos:
-> - `DIVISA_DE_BAIRROS_SIRGAS.zip`
-> - `2025-11-06_Casos_Covid_19_-_Base_de_Dados`
+> - `DIVISA_DE_BAIRROS_SIRGAS.zip`(Pode baixar via github)
+> - `2025-11-06_Casos_Covid_19_-_Base_de_Dados` (Necessario baixar via https://dadosabertos.curitiba.pr.gov.br/conjuntodado/detalhe?chave=b2b91b31-68b6-4107-9eea-280eae9ed3c9)
 
 ---
 
